@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lunar Moon Phase Calendar"
+  short_description: "Generate lunar calendars and moon phase lookups."
+  default_prompt: "Use $lunar-moon-phase-calendar to generate lunar calendars, phase lookups, and upcoming major moon phases."
