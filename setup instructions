@@ -1,0 +1,13 @@
+Install this as a reusable PromptBase Agent Skill.
+
+Use it when the user wants to create, improve, verify, audit, format, or package a lunar moon phase calendar for printables, personal planning, astrology, gardening, journaling, wellness, classrooms, content planning, CSV exports, PDF-ready layouts, or .ics calendar imports.
+
+For dated moon phase output, enable research tools or require the user to provide a reliable phase table. Do not generate final phase dates from memory.
+
+Enable Read/Edit if users will upload existing calendars, PDFs, Markdown files, CSV files, .ics files, or marketplace listing drafts.
+
+Enable Bash only if the skill will generate or validate downloadable files such as CSV, .ics, HTML, Markdown, or PDF-ready files.
+
+No bundled resources are required, but optional templates can be added for printable layouts, CSV fields, .ics events, and source-checking.
+
+Users should verify final dates, timezone conversions, rights, licensing, marketplace requirements, and output quality before publishing, selling, printing, planting, scheduling, or relying on the calendar.
